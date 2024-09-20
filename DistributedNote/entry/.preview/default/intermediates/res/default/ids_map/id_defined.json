@@ -1,0 +1,495 @@
+{
+    "record" : 
+    [
+        {
+            "id" : "0x01000000",
+            "name" : "app_name",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000001",
+            "name" : "app_icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000002",
+            "name" : "ic_cal_two",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000003",
+            "name" : "ic_practice_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000004",
+            "name" : "img_avatar",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000005",
+            "name" : "ic_right",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000006",
+            "name" : "ic_hop_normal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000007",
+            "name" : "book2",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000008",
+            "name" : "mark",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000009",
+            "name" : "ic_timer",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000A",
+            "name" : "ic_mine_update",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000B",
+            "name" : "img_practice_bg",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000C",
+            "name" : "ic_cal_delete_c",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000D",
+            "name" : "ic_cal_equal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000E",
+            "name" : "ic_mine_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000F",
+            "name" : "ic_cal_zero",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000010",
+            "name" : "ic_count",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000011",
+            "name" : "ic_practice",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000012",
+            "name" : "ic_progress",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000013",
+            "name" : "ic_mine",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000014",
+            "name" : "ic_cal_seven",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000015",
+            "name" : "checked",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000016",
+            "name" : "img_post",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000017",
+            "name" : "ic_unLogin_bg",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000018",
+            "name" : "icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000019",
+            "name" : "ic_cal_delete",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001A",
+            "name" : "ic_history_date",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001B",
+            "name" : "ic_mine_about",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001C",
+            "name" : "ic_cal_devide",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001D",
+            "name" : "ic_empty",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001E",
+            "name" : "book1",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001F",
+            "name" : "ic_cal_multiply",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000020",
+            "name" : "ic_cal_zero_short",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000021",
+            "name" : "ic_cal_percent",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000022",
+            "name" : "ic_cal_point",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000023",
+            "name" : "ic_cal_nine",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000024",
+            "name" : "bg",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000025",
+            "name" : "ic_timer_white",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000026",
+            "name" : "ic_circle",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000027",
+            "name" : "red",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000028",
+            "name" : "ic_cal_six",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000029",
+            "name" : "MainAbility_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100002A",
+            "name" : "MainAbility_label",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100002B",
+            "name" : "add",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100002C",
+            "name" : "add_note",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100002D",
+            "name" : "cancel",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100002E",
+            "name" : "check_device",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100002F",
+            "name" : "clear",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000030",
+            "name" : "entry_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000031",
+            "name" : "save",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000032",
+            "name" : "state",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000033",
+            "name" : "white",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000034",
+            "name" : "ic_back",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000035",
+            "name" : "img_login_bg",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000036",
+            "name" : "ic_circle_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000037",
+            "name" : "ic_code",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000038",
+            "name" : "blue",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000039",
+            "name" : "book",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003A",
+            "name" : "ic_complete",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003B",
+            "name" : "ic_cal_three",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003C",
+            "name" : "orange",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003D",
+            "name" : "img_splash_bg",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003E",
+            "name" : "ic_post_like_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003F",
+            "name" : "ic_loading",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000040",
+            "name" : "ic_cal_eight",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000041",
+            "name" : "ic_wrong",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000042",
+            "name" : "ic_post_like",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000043",
+            "name" : "connect",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000044",
+            "name" : "ic_count_white",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000045",
+            "name" : "ic_cal_five",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000046",
+            "name" : "ic_cal_plus",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000047",
+            "name" : "yellow",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000048",
+            "name" : "ic_incomplete",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000049",
+            "name" : "equal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004A",
+            "name" : "add",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004B",
+            "name" : "ic_accuracy",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004C",
+            "name" : "main_pages",
+            "type" : "profile"
+        },
+        {
+            "id" : "0x0100004D",
+            "name" : "ic_mine_card",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004E",
+            "name" : "img_post_bg",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004F",
+            "name" : "ic_phone",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000050",
+            "name" : "ic_hop_normal1",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000051",
+            "name" : "ic_accuracy_white",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000052",
+            "name" : "note",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000053",
+            "name" : "ic_top",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000054",
+            "name" : "green",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000055",
+            "name" : "ic_arrow_right",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000056",
+            "name" : "ic_cal_four",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000057",
+            "name" : "uncheck",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000058",
+            "name" : "trans",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000059",
+            "name" : "ic_refresh",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100005A",
+            "name" : "ic_cal_one",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100005B",
+            "name" : "ic_logo_lzu",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100005C",
+            "name" : "ic_hop",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100005D",
+            "name" : "ic_close",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100005E",
+            "name" : "ic_cal_minus",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100005F",
+            "name" : "clear",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000060",
+            "name" : "AI_Read",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000061",
+            "name" : "AI_Read_2",
+            "type" : "media"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+[{"time":"2024-09-16T02:04:28.400Z","category":"etsTransform","level":"warn","msg":"\u001b[33mArkTS:WARN File: C:\\Users\\20187\\Desktop\\DistributedNote\\entry\\src\\main\\ets\\pages\\IndexNote.ets:31:1\n It's not a recommended way to export struct with @Entry decorator, which may cause ACE Engine error in component preview mode.","type":"plugin_log"}]

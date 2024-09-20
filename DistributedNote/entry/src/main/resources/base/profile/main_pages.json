@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Edit",
+    "pages/IndexCanvas",
+    "pages/IndexNote",
+    "pages/Read",
+    "pages/SplashPage",
+    "pages/Index"
+  ]
+}
